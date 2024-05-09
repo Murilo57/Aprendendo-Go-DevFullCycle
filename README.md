@@ -5,3 +5,4 @@
 - Sintaxe
 - Tratamento de erros
 - Funções
+- Métodos (Métodos em Go é baseado em **estruturas**)
