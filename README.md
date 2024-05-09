@@ -6,3 +6,4 @@
 - Tratamento de erros
 - Funções
 - Métodos (Métodos em Go é baseado em **estruturas**)
+- Ponteiros (Endereço da memória onde é armazenado determinado valor)
